@@ -8,4 +8,11 @@ I'm currently a software engineering student at the University of Nebraska-Linco
 I'm currently an intern at 2mation Solutions where I work with a small team to build full-stack applications for client businesses. I work in both frontend UI/UX and backend management and organization. 
 
 I work mostly in Dart and JavaScript but Python falls within the mix a healthy amount. 
+
+#### Personal Projects
+Here are two links to personal projects I've made, both of which are still in development.
+Buchritter (Book Knight) - https://buchritter.onrender.com
+WorkingItOut (Organizational App with a few games) - https://feigling.tail417b54.ts.net/workingitout
+**Note**: Buchritter is hosted in reserved server space that winds down when given no activity. WorkingItOut is hosted on my own personal server so response times should be faster but can't handle a large traffic size.
+
 > I hope to one day master Whitespace.
