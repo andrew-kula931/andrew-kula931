@@ -5,7 +5,8 @@ I'm currently a software engineering student at the University of Nebraska-Linco
 
 - I also enjoy hitting the gym every now and then (can't code all day)
 
-I'm currently an intern at 2mation Solutions where I work with a small team to build full-stack applications for client businesses. I work in both frontend UI/UX and backend management and organization. 
+### Experience
+I'm currently an intern at 2mation Solutions where I work with a small team to build full-stack applications for client businesses. I work in both frontend UI/UX and backend management and organization. I've developed applications from the first line of code to the full release and regular maintaince beyond that. I've seen and solved a variety of real world issues such as network optimizations, efficient adaptation to sudden requirement specification changes, and creation of inuitive UIs that the client finds enjoyable and easy to use.
 
 I work mostly in Dart and JavaScript but Python falls within the mix a healthy amount. 
 
