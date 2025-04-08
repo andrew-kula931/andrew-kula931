@@ -9,7 +9,7 @@ I'm currently an intern at 2mation Solutions where I work with a small team to b
 
 I work mostly in Dart and JavaScript but Python falls within the mix a healthy amount. 
 
-#### Personal Projects
+### Personal Projects
 Here are two links to personal projects I've made, both of which are still in development.
 
 Buchritter (Book Knight) - https://buchritter.onrender.com
