@@ -1,8 +1,7 @@
 ## About Me
 I'm currently a software engineering student at the University of Nebraska-Lincoln. 
 - I enjoy learning new computational concepts and algorithms and then implementing them into something applicable and fun.
-- I work primarily in Web Dev but find other areas of Computer Science fascinating to learn more about and work with.
-
+- I work primarily in Web Dev but find Dev Ops and Machine Learning to be facinating subjects that I would like to know more about.
 - I also enjoy hitting the gym every now and then (can't code all day)
 
 ### Experience
