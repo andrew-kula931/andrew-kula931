@@ -16,6 +16,6 @@ Buchritter (Book Knight) - https://buchritter.onrender.com
 
 WorkingItOut (Organizational App with a few games) - https://feigling.tail417b54.ts.net/workingitout
 
-**Note**: Buchritter is hosted in reserved server space that winds down when given no activity. WorkingItOut is hosted on my own personal server so response times should be faster but can't handle a large traffic size.
+**Note**: Buchritter is hosted in reserved server space that winds down when given no activity. WorkingItOut is hosted on my own personal server so response times should be faster.
 
 > I hope to one day master Whitespace.
