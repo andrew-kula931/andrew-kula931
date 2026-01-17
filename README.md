@@ -7,10 +7,12 @@ I'm currently a software engineering student at the University of Nebraska-Linco
 ### Experience
 I'm currently a junior software developer at 2mation Solutions where I work with a small team to build full-stack applications for client businesses. I work in both frontend UI/UX and backend management and organization. I've developed applications from the first line of code to the full release and regular maintaince beyond that. I've seen and solved a variety of real world issues such as network optimizations, efficient adaptation to sudden requirement specification changes, and creation of inuitive UIs that the client finds enjoyable and easy to use.
 
-I work mostly in Dart and PosgreSQL using Flutter, but my personal projects typically use Typescript and SQLite with React.
+I also work in the UNL Constraint Processing Lab to develop visualization tools for the development of cutting edge algorithms. Here I work with a small lab team to analyze large datasets and create highly intuitive, multi-functioning software to automate the visualization of complex algorithm outputs.
+
+Across all platforms I work primarily in Dart, Postgresql, and Javascript.
 
 ### Personal Projects
-Here are two links to personal projects I've made, both of which are still in development.
+Here are two links to hobby projects I've made.
 
 Buchritter (Book Knight) - https://buchritter.onrender.com
 
